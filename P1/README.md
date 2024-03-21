@@ -1,6 +1,12 @@
 ## DIU - Practica1, entregables
 
+# User Research
 
+# Análisis Competitivo
+
+# 2 Personas
+
+# 2 User Journey Map
 
 - User research - (plan) template 
 - Desk research: Análisis Competencia 
