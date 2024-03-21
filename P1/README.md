@@ -13,13 +13,13 @@ Hemos decidido elegir a CookEle, ya que es la que pensamos que es la más correg
 
 ### 2 Personas
 
-[Persona 1]()
+[Persona 1](https://github.com/FranRIvas-UGR/DIU/blob/master/P1/Persona_&_User_Journey_Map_#2.pdf)
 
 [Persona 2]()
 
 ### 2 User Journey Map
 
-[User Journey Map 1]()
+[User Journey Map 1](https://github.com/FranRIvas-UGR/DIU/blob/master/P1/Persona_&_User_Journey_Map_#2.pdf)
 
 [User Journey Map 2]()
 
