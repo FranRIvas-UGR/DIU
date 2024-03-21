@@ -1,7 +1,7 @@
 ## DIU - Practica1, entregables
 
 ### User Research
-[User Research](https://github.com/FranRIvas-UGR/DIU/blob/master/P1/User_Research_DIU2_Real_Betis.docx)
+[User Research](https://github.com/FranRIvas-UGR/DIU/blob/master/P1/User_Research_DIU2_Real_Betis.pdf)
 
 En este documento se refleja las primeras incursiones en esta materia: qué es lo que buscamos, cómo lo vamos a hacer y qué vamos a usar.
 
