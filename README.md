@@ -16,7 +16,7 @@ Logotipo:
 
 Miembros
  * :bust_in_silhouette:   Francisco de Asís Rivas Fernández     :octocat:     
- * :bust_in_silhouette:  Gonzalo Morato de Tapia     :octocat:
+ * :bust_in_silhouette:  Gonzalo Morato de Tapia Caro    :octocat:
 
 ----- 
 
