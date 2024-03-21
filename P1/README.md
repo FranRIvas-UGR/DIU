@@ -1,12 +1,16 @@
 ## DIU - Practica1, entregables
 
-# User Research
+### User Research
 
-# Análisis Competitivo
+### Análisis Competitivo
 
-# 2 Personas
+### 2 Personas
 
-# 2 User Journey Map
+### 2 User Journey Map
+
+### Usability Review
+
+### Briefing
 
 - User research - (plan) template 
 - Desk research: Análisis Competencia 
