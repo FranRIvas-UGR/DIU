@@ -24,5 +24,8 @@ Alejandro García González tiene un perfil demográfico representativo de la ge
 
 [Usability Review](https://github.com/FranRIvas-UGR/DIU/blob/master/P1/Usability-review_DIU2_Real_Betis.xls)
 
+En esta hoja de cálculo, hemos calificado cada uno de los aspectos de la página web de la empresa, para obtener así una calificación general que nos indique un grado de posible mejora a la hora de hacer cara a las necesidades del usuario. La empresa que está calificada es CookEle, la que hemos elegido anteriormente por su gran cantidad de aspectos mejorables y escalables.
+
 ### Briefing
 
+En esta práctica nos hemos centrado en conocer la empresa y su página web y tratar de diferenciarlas de las demás opciones, buscando los puntos fuertes y los débiles. Esto ha sido gracias a métodos como la creación de Personas ficticias y User Journey Maps, que nos han permitido hacer más fácil la comprensión de posibles usuarios a la hora de interactuar con la página.
