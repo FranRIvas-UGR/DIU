@@ -2,11 +2,13 @@
 
 ### Ideación 
 * Malla receptora de información 
-* Mapa de empatía
-* Point of View 
 
 
 ### PROPUESTA DE VALOR
+Azucareros Anónimos
+
+Nuestro proyecto consiste en un club gastronómico de postres donde las personas aprenderán a crear una variedad de dulces, desde lo básico hasta lo más elaborado. Siendo un maestro pastelero, entrado en el tema o un recién empezado, se ofrecen cursos que contemplan todos los rangos de dificultad y gustos, a la carta del usuario.   
+
 * ScopeCanvas
 
 
