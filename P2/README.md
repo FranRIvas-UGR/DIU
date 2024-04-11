@@ -14,7 +14,8 @@ Nuestro proyecto consiste en un club gastronómico de postres donde las personas
 
 ### TASK ANALYSIS
 
-* User Task Matrix 
+* User Task Matrix
+![User Task Matrix](https://github.com/FranRIvas-UGR/DIU/blob/master/P2/User_Task_Analysis.png)
 * User/Task flow
 
 
