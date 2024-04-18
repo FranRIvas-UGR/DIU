@@ -11,7 +11,7 @@ Nuestro proyecto consiste en un club gastronómico de postres donde las personas
 
 * ScopeCanvas
 
-![ScopeCanvas (PDF)](https://github.com/FranRIvas-UGR/DIU/blob/master/P2/ScopeCanvas.pdf)
+#### ![ScopeCanvas (PDF)](https://github.com/FranRIvas-UGR/DIU/blob/master/P2/ScopeCanvas.pdf)
 ![ScopeCanvas](https://github.com/FranRIvas-UGR/DIU/blob/master/P2/ScopeCanvas.png)
 
 
