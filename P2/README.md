@@ -33,21 +33,21 @@ De esta tabla sacaremos tres tareas y les haremos un User Flow.
 #### User/Task Flow
 
 ##### User Flow 1: Asistir a una sesión
-![User Flow_1](https://github.com/FranRIvas-UGR/DIU/blob/master/P2/User_Flow_1_DIU2_Real_Betis.png)
+![User Flow_1](https://github.com/FranRIvas-UGR/DIU/blob/master/P2/User_Flows/User_Flow_1_DIU2_Real_Betis.png)
 
-![User Flow_1 (PDF)](https://github.com/FranRIvas-UGR/DIU/blob/master/P2/User_Flow_1_DIU2_Real_Betis.pdf)
+![User Flow_1 (PDF)](https://github.com/FranRIvas-UGR/DIU/blob/master/P2/User_Flows/User_Flow_1_DIU2_Real_Betis.pdf)
 
 ##### User Flow 2: Participar en un concurso
 
-![User Flow_2](https://github.com/FranRIvas-UGR/DIU/blob/master/P2/User_Flow_2_DIU2_Real_Betis.png)
+![User Flow_2](https://github.com/FranRIvas-UGR/DIU/blob/master/P2/User_Flows/User_Flow_2_DIU2_Real_Betis.png)
 
-![User Flow_2 (PDF)](https://github.com/FranRIvas-UGR/DIU/blob/master/P2/User_Flow_2_DIU2_Real_Betis.pdf)
+![User Flow_2 (PDF)](https://github.com/FranRIvas-UGR/DIU/blob/master/P2/User_Flows/User_Flow_2_DIU2_Real_Betis.pdf)
 
 ##### User Flow 3: Asistir a un evento especial
 
-![User Flow_3](https://github.com/FranRIvas-UGR/DIU/blob/master/P2/User_Flow_3_DIU2_Real_Betis.png)
+![User Flow_3](https://github.com/FranRIvas-UGR/DIU/blob/master/P2/User_Flows/User_Flow_3_DIU2_Real_Betis.png)
 
-![User Flow_3 (PDF)](https://github.com/FranRIvas-UGR/DIU/blob/master/P2/User_Flow_3_DIU2_Real_Betis.pdf)
+![User Flow_3 (PDF)](https://github.com/FranRIvas-UGR/DIU/blob/master/P2/User_Flows/User_Flow_3_DIU2_Real_Betis.pdf)
 
 
 
