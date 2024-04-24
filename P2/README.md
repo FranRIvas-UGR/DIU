@@ -55,7 +55,7 @@ De esta tabla sacaremos tres tareas y les haremos un User Flow.
 ### ARQUITECTURA DE INFORMACIÓN
 
 ##### Site Map
-![Site Map](https://github.com/FranRIvas-UGR/DIU/blob/master/P2/Site_Map_DIU2_Real_Betis.pdf)
+![Site Map](https://github.com/FranRIvas-UGR/DIU/blob/master/P2/Site_Map_DIU2_Real_Betis.png)
 ![Site Map(PDF)](https://github.com/FranRIvas-UGR/DIU/blob/master/P2/Site_Map_DIU2_Real_Betis.pdf)
 
 
