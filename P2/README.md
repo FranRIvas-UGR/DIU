@@ -67,6 +67,10 @@ De esta tabla sacaremos tres tareas y les haremos un User Flow.
 
 
 ### Prototipo Lo-FI Wireframe 
+Hemos decidido que las páginas más importantes son: 
+##### Página Principal
+![Página Principal](https://github.com/FranRIvas-UGR/DIU/blob/master/P2/Wireframes/PaginaPrincipal.png)
+
 
 
 ### Conclusiones  
