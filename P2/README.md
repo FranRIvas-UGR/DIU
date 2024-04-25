@@ -79,7 +79,9 @@ Hemos decidido que las páginas más importantes son:
 ![Sesiones](https://github.com/FranRIvas-UGR/DIU/blob/master/P2/Wireframes/Sesiones.png)
 
 ##### Eventos Especiales
-![Sesionesl](https://github.com/FranRIvas-UGR/DIU/blob/master/P2/Wireframes/EventosEspeciales.png)
+![Vista 1](https://github.com/FranRIvas-UGR/DIU/blob/master/P2/Wireframes/Vista1_EventosEspeciales.png)
+![Vista 2](https://github.com/FranRIvas-UGR/DIU/blob/master/P2/Wireframes/Vista2_EventosEspeciales.png)
+![Vista 3](https://github.com/FranRIvas-UGR/DIU/blob/master/P2/Wireframes/Vista3_EventosEspeciales.png)
 
 
 ### Conclusiones  
