@@ -57,6 +57,8 @@ De esta tabla sacaremos tres tareas y les haremos un User Flow.
 ##### Site Map
 ![Site Map](https://github.com/FranRIvas-UGR/DIU/blob/master/P2/Site_Map_DIU2_Real_Betis.png)
 
+![Site Map (PDF)](https://github.com/FranRIvas-UGR/DIU/blob/master/P2/Site_Map_DIU2_Real_Betis.pdf)
+
 
 ##### Labelling
 ![Labelling](https://github.com/FranRIvas-UGR/DIU/blob/master/P2/Labelling_DIU2_Real_Betis.png)
