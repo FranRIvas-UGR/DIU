@@ -85,4 +85,7 @@ Hemos decidido que las páginas más importantes son:
 
 
 ### Conclusiones  
-(incluye valoración de esta etapa)
+En esta etapa del diseño, nos hemos topado con decisiones que marcaran el resto de las prácticas. Estas decisiones sentarán las bases
+de las siguientes prácticas. Esta parte del diseño ha sido bastante laboriosa y ha requerido bastante tiempo en estar complicada.
+Lo más dificil ha sido la parte de la malla receptora, la propuesta de valor y el ScopeCanvas, ya que requerían de un proceso de creación
+muy elaborado.
