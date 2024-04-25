@@ -69,9 +69,11 @@ De esta tabla sacaremos tres tareas y les haremos un User Flow.
 ### Prototipo Lo-FI Wireframe 
 Hemos decidido que las páginas más importantes son: 
 ##### Página Principal
-![Página Principal](https://github.com/FranRIvas-UGR/DIU/blob/master/P2/Wireframes/Vista1_PaginaPrincipal.png)
-![Página Principal](https://github.com/FranRIvas-UGR/DIU/blob/master/P2/Wireframes/Vista2_PaginaPrincipal.png)
-![Página Principal](https://github.com/FranRIvas-UGR/DIU/blob/master/P2/Wireframes/Vista3_PaginaPrincipal.png)
+![Vista 1](https://github.com/FranRIvas-UGR/DIU/blob/master/P2/Wireframes/Vista1_PaginaPrincipal.png)
+
+![Vista 2](https://github.com/FranRIvas-UGR/DIU/blob/master/P2/Wireframes/Vista2_PaginaPrincipal.png)
+
+![Vista 3](https://github.com/FranRIvas-UGR/DIU/blob/master/P2/Wireframes/Vista3_PaginaPrincipal.png)
 
 ##### Sesiones
 ![Sesiones](https://github.com/FranRIvas-UGR/DIU/blob/master/P2/Wireframes/Sesiones.png)
