@@ -8,6 +8,17 @@
 
 ## Mockup: LAYOUT HI-FI
 
+He usado los siguientes patrones de diseño:
+### Onboarding
+### Menu
+### Hero Image + Carrousel
+### Wizards
+### Article List
+### Item Details + Actions
+### Reserva
+### Form Input
+### About
+
 
 ## Documentación: Publicación del Case Study
 
