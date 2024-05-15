@@ -21,10 +21,6 @@ Miembros
 ----- 
 
 
-
->>> Este documento es el esqueleto del report final de la práctica. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. Elimine este texto desde la práctica 1
-
-
 # Proceso de Diseño 
 
 ## Paso 1. UX User & Desk Research & Analisis 
@@ -32,82 +28,116 @@ Miembros
 
 ![Método UX](img/Competitive.png) **1.a User Reseach Plan**
 -----
-
->>> Describe el plan de User Research (cómo se planteas)  
+En esta práctica nos hemos centrado en conocer la empresa y su página web y tratar de diferenciarlas de las demás opciones, buscando los puntos fuertes y los débiles. Esto ha sido gracias a métodos como la creación de Personas ficticias y User Journey Maps, que nos han permitido hacer más fácil la comprensión de posibles usuarios a la hora de interactuar con la página.
 
 ![Método UX](img/Competitive.png) 1.b Competitive Analysis
 -----
+[Análisis Competitivo](https://github.com/FranRIvas-UGR/DIU/blob/master/P1/An%C3%A1lisis_Competitivo_DIU2_Real_Betis.pdf)
 
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas 
+Hemos decidido elegir a CookEle, ya que es la que pensamos que es la más corregible y a la que podemos hacer un mejor análisis, ya que los defectos y las virtudes están mucho más claras en ésta que en las otras. Elegir esta por encima de las otras ha sido meramente por el hecho de que tenemos que proponer una mejora de cara a los usuarios que vayan a hacer uso de dicha página y que quieran por tanto usar los productos que ofrecen estas empresas. En vista a ese objetivo, hemos visto que esta opción sobresale por encima de las demás. Sobresale en cuanto se refiere a posibilidad de mejorar y de incrementar la experiencia de las personas al querer hacer uso de este servicio. Las empresas competidoras están a un nivel mucho más alto comparado con la que hemos elegido, así que el análisis hubiera sido más difícil.
 
-![Método UX](img/Persona.png) 1.c Persona
+![Método UX](img/Persona.png) 1.c Persona y Journey Map
 -----
+* [Persona 1](https://github.com/FranRIvas-UGR/DIU/blob/master/P1/Persona%20%26%20User%20Journey%20Map%20%231.pdf)  
+Javier González representa un perfil de usuario común en la sociedad contemporánea: un adulto mayor recién divorciado y jubilado que busca reinventarse y encontrar nuevas pasiones en esta nueva etapa de su vida. Su lucha con la tecnología proporciona un contexto realista para explorar como está estructurada la página web, y permite destacar los puntos fuertes y débiles de la página cuando la utiliza una persona con poca experiencia digital.
 
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  
+* [Persona 2](https://github.com/FranRIvas-UGR/DIU/blob/master/P1/Persona%20%26%20User%20Journey%20Map%20%232.pdf)
+Alejandro García González tiene un perfil demográfico representativo de la generación actual de jóvenes adultos. Alejandro está inmerso en la tecnología y las plataformas en línea, lo que le permitiria abordar el proceso de inscripción en clases de cocina con facilidad. Sin embargo, esto también permite resaltar los fallos de diseño de la página cuando le faltan funciones que los usuarios con experiencia consideran básicos, como poder inscribirse de manera online.
 
-![Método UX](img/JourneyMap.png) 1.d User Journey Map
+![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
+[Usability Review](https://github.com/FranRIvas-UGR/DIU/blob/master/P1/Usability-review_DIU2_Real_Betis.xls)
 
-
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) 
-
-![Método UX](img/usabilityReview.png) 1.e Usability Review
-----
->>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
->>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  (sube a github el xls/pdf) 
->>> - Valoración final (numérica): 
->>> - Comentario sobre la valoración:  (60-120 caracteres)
+En esta hoja de cálculo, hemos calificado cada uno de los aspectos de la página web de la empresa, para obtener así una calificación general que nos indique un grado de posible mejora a la hora de hacer cara a las necesidades del usuario. La empresa que está calificada es CookEle, la que hemos elegido anteriormente por su gran cantidad de aspectos mejorables y escalables.
 
 
 ## Paso 2. UX Design  
 
 
-![Método UX](img/feedback-capture-grid.png) 2.a Reframing / IDEACION: Feedback Capture Grid / EMpathy map 
+![Método UX](img/feedback-capture-grid.png) 2.a Reframing / IDEACION: Feedback Capture Grid / Empathy map 
 ----
-
-
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
-
-
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
-  
-    
->>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
->>> Problema e hipótesis
->>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
->>> (150-200 caracteres)
-
+Hemos escogido esta opción ya que vemos que es la más adecuada a la hora de visualizar claramente los cuatro pilares que harán de base al diseño de nuestra página.
+![Malla Receptora](https://github.com/FranRIvas-UGR/DIU/blob/master/P2/Malla_Receptora.png)
 
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
->>> Propuesta de valor 
+#### Azucareros Anónimos
+
+Nuestro proyecto consiste en un club gastronómico de postres donde las personas aprenderán a crear una variedad de dulces, desde lo básico hasta lo más elaborado. Siendo un maestro pastelero, entrado en el tema o un recién empezado, se ofrecen cursos que contemplan todos los rangos de dificultad y gustos, a la carta del usuario.   
+
+#### ![ScopeCanvas (PDF)](https://github.com/FranRIvas-UGR/DIU/blob/master/P2/ScopeCanvas.pdf)
+
+
+![ScopeCanvas](https://github.com/FranRIvas-UGR/DIU/blob/master/P2/ScopeCanvas.png)
+
+En nuestro ScopeCanvas hemos reflejado la propuesta de valor anterior, y hemos rellenado la plantilla con la información referente a lo que queremos conseguir y cómo
+mediremos que nuestra página funciona.
 
 ![Método UX](img/Sitemap.png) 2.b User Flow (task) analysis 
 -----
+#### User Task Matrix
+![User Task Matrix](https://github.com/FranRIvas-UGR/DIU/blob/master/P2/User_Task_Analysis.png)
 
->>> Definir "User Map" y "Task Flow" ... 
+En esta matriz se reflejan diferentes tareas a realizar y diferentes grupos de usuarios. Cada tarea tiene una prioridad para cada grupo de usuarios. 
+De esta tabla sacaremos tres tareas y les haremos un User Flow.
+
+##### User Flow 1: Asistir a una sesión
+![User Flow_1](https://github.com/FranRIvas-UGR/DIU/blob/master/P2/User_Flows/User_Flow_1_DIU2_Real_Betis.png)
+
+![User Flow_1 (PDF)](https://github.com/FranRIvas-UGR/DIU/blob/master/P2/User_Flows/User_Flow_1_DIU2_Real_Betis.pdf)
+
+##### User Flow 2: Participar en un concurso
+
+![User Flow_2](https://github.com/FranRIvas-UGR/DIU/blob/master/P2/User_Flows/User_Flow_2_DIU2_Real_Betis.png)
+
+![User Flow_2 (PDF)](https://github.com/FranRIvas-UGR/DIU/blob/master/P2/User_Flows/User_Flow_2_DIU2_Real_Betis.pdf)
+
+##### User Flow 3: Asistir a un evento especial
+
+![User Flow_3](https://github.com/FranRIvas-UGR/DIU/blob/master/P2/User_Flows/User_Flow_3_DIU2_Real_Betis.png)
+
+![User Flow_3 (PDF)](https://github.com/FranRIvas-UGR/DIU/blob/master/P2/User_Flows/User_Flow_3_DIU2_Real_Betis.pdf)
 
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
+##### Site Map
+![Site Map](https://github.com/FranRIvas-UGR/DIU/blob/master/P2/Site_Map_DIU2_Real_Betis.png)
+
+![Site Map (PDF)](https://github.com/FranRIvas-UGR/DIU/blob/master/P2/Site_Map_DIU2_Real_Betis.pdf)
 
 
->>> Identificar términos para diálogo con usuario  
+##### Labelling
+![Labelling](https://github.com/FranRIvas-UGR/DIU/blob/master/P2/Labelling_DIU2_Real_Betis.png)
 
-Término | Significado     
-| ------------- | -------
-  Login¿?  | acceder a plataforma
+![Labelling(PDF)](https://github.com/FranRIvas-UGR/DIU/blob/master/P2/Labelling_DIU2_Real_Betis.pdf)
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
+Hemos decidido que las páginas más importantes son: 
+##### Página Principal
+![Vista 1](https://github.com/FranRIvas-UGR/DIU/blob/master/P2/Wireframes/Vista1_PaginaPrincipal.png)
 
->>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
+![Vista 2](https://github.com/FranRIvas-UGR/DIU/blob/master/P2/Wireframes/Vista2_PaginaPrincipal.png)
 
+![Vista 3](https://github.com/FranRIvas-UGR/DIU/blob/master/P2/Wireframes/Vista3_PaginaPrincipal.png)
+
+##### Sesiones
+![Sesiones](https://github.com/FranRIvas-UGR/DIU/blob/master/P2/Wireframes/Sesiones.png)
+
+##### Eventos Especiales
+![Vista 1](https://github.com/FranRIvas-UGR/DIU/blob/master/P2/Wireframes/Vista1_EventosEspeciales.png)
+![Vista 2](https://github.com/FranRIvas-UGR/DIU/blob/master/P2/Wireframes/Vista2_EventosEspeciales.png)
+![Vista 3](https://github.com/FranRIvas-UGR/DIU/blob/master/P2/Wireframes/Vista3_EventosEspeciales.png)
+
+
+### Conclusiones  
+En esta etapa del diseño, nos hemos topado con decisiones que marcaran el resto de las prácticas. Estas decisiones sentarán las bases
+de las siguientes prácticas. Esta parte del diseño ha sido bastante laboriosa y ha requerido bastante tiempo en estar complicada.
+Lo más dificil ha sido la parte de la malla receptora, la propuesta de valor y el ScopeCanvas, ya que requerían de un proceso de creación
+muy elaborado.
 
 ## Paso 3. Mi UX-Case Study (diseño)
 
