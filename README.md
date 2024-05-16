@@ -5,14 +5,14 @@ Grupo: DIU2_Real_Betis.  Curso: 2023/24
 Updated: 21/3/2024
 
 Proyecto: 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+Azucareros Anónimos
 
 Descripción: 
-
->>> Describa la idea de su producto en la práctica 2 
+Nuestro proyecto consiste en un club gastronómico de postres donde las personas aprenderán a crear una variedad de dulces, desde lo básico hasta lo más elaborado. Siendo un maestro pastelero, entrado en el tema o un recién empezado, se ofrecen cursos que contemplan todos los rangos de dificultad y gustos, a la carta del usuario.
 
 Logotipo: 
->>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
+
+![Logotipo](https://github.com/FranRIvas-UGR/DIU/blob/master/img/Logotipo.png)
 
 Miembros
  * :bust_in_silhouette:   Francisco de Asís Rivas Fernández     :octocat:     
