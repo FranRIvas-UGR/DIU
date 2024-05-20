@@ -1,9 +1,23 @@
 # DIU - Practica 3, entregables
 
-## Moodboard (diseño visual + logotipo)   
+## Moodboard (diseño visual + logotipo)  
+
+### Moodboard
+
+![Moodboard](https://github.com/FranRIvas-UGR/DIU/blob/master/img/MoodboardSC.png)
+
+### Tipografía
+
+![Tipografía](https://github.com/FranRIvas-UGR/DIU/blob/master/img/Typography.png)
+
+### Iconos
+
+![Iconos](https://github.com/FranRIvas-UGR/DIU/blob/master/img/Icons.png)
 
 
 ## Landing Page
+
+![Landing Page](https://github.com/FranRIvas-UGR/DIU/blob/master/img/LandingPage.png)
 
 
 ## Mockup: LAYOUT HI-FI
