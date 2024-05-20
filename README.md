@@ -143,7 +143,18 @@ muy elaborado.
 
 
 ![Método UX](img/moodboard.png) 3.a Moodboard
------
+
+### Moodboard
+
+![Moodboard](https://github.com/FranRIvas-UGR/DIU/blob/master/img/MoodboardSC.png)
+
+### Tipografía
+
+![Tipografía](https://github.com/FranRIvas-UGR/DIU/blob/master/img/Typography.png)
+
+### Iconos
+
+![Iconos](https://github.com/FranRIvas-UGR/DIU/blob/master/img/Icons.png)
 
 
 >>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
@@ -153,6 +164,8 @@ muy elaborado.
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
+
+![Landing Page](https://github.com/FranRIvas-UGR/DIU/blob/master/img/LandingPage.png)
 
 
 >>> Plantear Landing Page 
