@@ -54,6 +54,9 @@ La sección "Acerca de" proporciona información adicional sobre la aplicación,
 
 ## Documentación: Publicación del Case Study
 
+La creación del prototipo del layout y la landing page ha sido la parte más complicada hasta ahora. Diseñar una interfaz intuitiva que atraiga a los usuarios de manera efectiva ha requerido un esfuerzo considerable. A pesar de los desafíos técnicos y de diseño, hemos terminado muy satisfechos con el resultado.
 
-(incluye) Valoración del equipo sobre la realización de esta práctica o los problemas surgidos
+https://www.figma.com/proto/nKXz7pISrwOZilxfarpmls/Material-3-Design-Kit?node-id=56854-604&t=j4cvxAAhK4mQYJbu-1&scaling=scale-down&page-id=56803%3A25570&starting-point-node-id=56804%3A25586
+
+
  
