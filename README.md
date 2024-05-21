@@ -200,22 +200,14 @@ Los formularios son elementos fundamentales en muchas aplicaciones y sitios web,
 ### About
 La sección "Acerca de" proporciona información adicional sobre la aplicación, el servicio y la empresa detrás de ella. Es útil para compartir detalles como la misión, el equipo, las características clave o cualquier otra información relevante que ayude a los usuarios a comprender mejor el contexto y el propósito de la aplicación. Esto puede ayudar a construir confianza y credibilidad con los usuarios.
 
-
->>> Estudio de Guidelines y Patrones IU a usar 
->>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
-
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
 
->>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
+https://www.figma.com/proto/nKXz7pISrwOZilxfarpmls/Material-3-Design-Kit?node-id=56854-604&t=j4cvxAAhK4mQYJbu-1&scaling=scale-down&page-id=56803%3A25570&starting-point-node-id=56804%3A25586
 
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
-
-
->>> Publicar my Case Study en Github..
->>> Documente y resuma el diseño de su producto
 
 
 ## Paso 5. Exportación & evaluación con Eye Tracking 
