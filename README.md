@@ -172,20 +172,6 @@ muy elaborado.
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
-
-
-
->>> Estudio de Guidelines y Patrones IU a usar 
->>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
-
-![Método UX](img/mockup.png)  3.d Mockup
-----
-
->>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
-
-
-![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
------
 ### Onboarding
 El patrón de diseño de Onboarding se utiliza para guiar a los usuarios a través de la configuración inicial o introducción a una aplicación o plataforma. Es especialmente útil cuando se trata de una primera interacción del usuario con el producto. Proporciona una experiencia de bienvenida que ayuda a los usuarios a comprender rápidamente cómo utilizar la aplicación y qué esperar de ella.
 
@@ -213,6 +199,20 @@ Los formularios son elementos fundamentales en muchas aplicaciones y sitios web,
 
 ### About
 La sección "Acerca de" proporciona información adicional sobre la aplicación, el servicio y la empresa detrás de ella. Es útil para compartir detalles como la misión, el equipo, las características clave o cualquier otra información relevante que ayude a los usuarios a comprender mejor el contexto y el propósito de la aplicación. Esto puede ayudar a construir confianza y credibilidad con los usuarios.
+
+
+>>> Estudio de Guidelines y Patrones IU a usar 
+>>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+
+![Método UX](img/mockup.png)  3.d Mockup
+----
+
+>>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
+
+
+![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
+-----
+
 
 >>> Publicar my Case Study en Github..
 >>> Documente y resuma el diseño de su producto
