@@ -8,10 +8,10 @@ Lista de grupos
 * Usuarios
   
 * Usuario 1:
-  ![Tabla_ID1](https://github.com/FranRIvas-UGR/DIU/blob/master/P4/Tabla_ID1.png)
+*  ![Tabla_ID1](https://github.com/FranRIvas-UGR/DIU/blob/master/P4/Tabla_ID1.png)
 
 * Usuario 2:
-  ![Tabla_ID2](https://github.com/FranRIvas-UGR/DIU/blob/master/P4/Tabla_ID2.png)
+*  ![Tabla_ID2](https://github.com/FranRIvas-UGR/DIU/blob/master/P4/Tabla_ID2.png)
 
   
 
