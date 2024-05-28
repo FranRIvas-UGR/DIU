@@ -5,7 +5,12 @@
 Revisar [Asignacion_ABtesting](https://github.com/mgea/DIU/blob/master/P4/Asignacion_ABtesting.pdf)
 Lista de grupos 
 
-* Users 
+* Usuarios
+  Usuario 1:
+
+  Usuario 2:
+
+  
 
 Elección y características
 
