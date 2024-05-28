@@ -6,7 +6,7 @@ Revisar [Asignacion_ABtesting](https://github.com/mgea/DIU/blob/master/P4/Asigna
 Lista de grupos 
 
 ### Asignación de caso B: Los Poullas
-## Usuarios
+#### Usuarios
   
   * Usuario 1:
 
@@ -16,7 +16,7 @@ Lista de grupos
 
 ![Tabla_ID2](https://github.com/FranRIvas-UGR/DIU/blob/master/P4/Tabla_ID2.png)
 
-## Cuestionario SUS A
+#### Cuestionario SUS A
 * Usuario 1:
 
 ![SUS1](https://github.com/FranRIvas-UGR/DIU/blob/master/P4/SUS1.png)
