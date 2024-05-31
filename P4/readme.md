@@ -25,6 +25,15 @@ Lista de grupos
 
 ![SUS2](https://github.com/FranRIvas-UGR/DIU/blob/master/P4/SUS2.png)
 
+#### Cuestionario SUS B
+* Usuario 3:
+
+![SUS3](https://github.com/FranRIvas-UGR/DIU/blob/master/P4/SUS-3.png)
+
+* Usuario 4:
+
+![SUS4](https://github.com/FranRIvas-UGR/DIU/blob/master/P4/SUS-4.png)
+
 
 Elección y características
 
