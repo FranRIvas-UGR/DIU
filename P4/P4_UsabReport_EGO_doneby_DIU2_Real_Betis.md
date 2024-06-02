@@ -98,7 +98,7 @@ El puntaje promedio del SUS fue de 63.75, lo que indica una usabilidad marginal 
 
 #### Incidencias
 
-Todo se ha podido realizar correctamente, con la posible excepción del eyetracking, que sospecho que en ciertas ocasiones no ha estado perfectamente calibrado.
+El eyetracking ha sido lo único con incidencias. Complicaciones con obtener un buen calibrado, y no tener la versión de pago de GazeRecorder significa no tener acceso a más de 2 responders, por lo que los tests son menos precisos de lo que deberían.
 
 
 
