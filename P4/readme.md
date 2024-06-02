@@ -43,7 +43,8 @@ Elección y características
 * Tareas realizadas 
 
 
-* Usability Report de Caso B
-* Template de usability.gob (https://www.usability.gov/how-to-and-tools/resources/templates/report-template-usability-test.html) 
+#### Usability Report de Caso B
+![UsabilityReport](htpps://github.com/FranRivas-UGR/DIU/blob/master/P4/P4_UsabReport_EGO_doneby_DIU2_Real_Betis.md)
+
 
 * Conclusiones
