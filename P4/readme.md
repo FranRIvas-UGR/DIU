@@ -44,7 +44,7 @@ Elección y características
 
 
 #### Usability Report de Caso B
-![UsabilityReport](htpps://github.com/FranRivas-UGR/DIU/blob/master/P4/P4_UsabReport_EGO_doneby_DIU2_Real_Betis.md)
+[UsabilityReport](P4_UsabReport_EGO_doneby_DIU2_Real_Betis.md)
 
 
 * Conclusiones
