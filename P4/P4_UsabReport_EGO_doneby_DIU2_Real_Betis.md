@@ -98,7 +98,7 @@ El puntaje promedio del SUS fue de 63.75, lo que indica una usabilidad marginal 
 
 #### Incidencias
 
-* (indicad si algo ha fallado o no se ha podido realizar correctamente por algún motivo)
+Todo se ha podido realizar correctamente, con la posible excepción del eyetracking, que sospecho que en ciertas ocasiones no ha estado perfectamente calibrado.
 
 
 
