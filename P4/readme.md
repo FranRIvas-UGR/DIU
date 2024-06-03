@@ -73,11 +73,10 @@ Se han realizado distintas tareas:
 * Mapas de calor
     * Mapa de calor del prototipo A:
     Algunas capturas de pantalla de los mapas de calor del prototipo A:
-        ![MapaCalorA1](https://github.com/FranRIvas-UGR/DIU/blob/master/P4/capturas/MapaCalorA1.png)
-        ![MapaCalorA2](https://github.com/FranRIvas-UGR/DIU/blob/master/P4/capturas/MapaCalorA2.png)
+        <img src="https://github.com/FranRIvas-UGR/DIU/blob/master/P4/capturas/MapaCalorA1.png" alt="MapaCalorA1" width="200"/>
+        ![MapaCalorA2](hhttps://github.com/FranRIvas-UGR/DIU/blob/master/P4/capturas/MapaCalorA2.png)
         ![MapaCalorA3](https://github.com/FranRIvas-UGR/DIU/blob/master/P4/capturas/MapaCalorA3.png)
         ![MapaCalorA4](https://github.com/FranRIvas-UGR/DIU/blob/master/P4/capturas/MapaCalorA4.png)
-
 
 #### Usability Report de Caso B
 [UsabilityReport](P4_UsabReport_EGO_doneby_DIU2_Real_Betis.md)
