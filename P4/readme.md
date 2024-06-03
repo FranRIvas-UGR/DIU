@@ -48,7 +48,11 @@ Como vemos en esta tabla, este usuario tiene un rasgo de "Asco" a la hora de eva
 
 #### Cuestionario SUS A
 
-Atendiendo a los scores obtenidos en el cuestionario SUS, vamos a obtener un score agregado de cada uno de los prototipos. Para ello, vamos a sumar los valores de cada uno de los usuarios y dividirlo entre el número de usuarios. En el caso del A, el usuario 1 ha obtenido una puntuación del 57,5, mientras que el usuario B ha obtenido una puntuación de 60. Por tanto, el score agregado del prototipo A es de 58,75. Esta puntuación puede parecer baja, pero es importante tener en cuenta que el cuestionario SUS es un cuestionario subjetivo y que, por tanto, puede variar en función de la persona que lo realice. En este caso, las personas que evaluaban el prototipo A tenian el rasgo "Asco" y "Enfadado" en la tabla de evaluación de usuarios, lo que muestra que aún a persar de tener las emociones más negativas a la hora de evaluar el prototipo, la puntuación obtenida es bastante buena. 
+Atendiendo a los scores obtenidos en el cuestionario SUS, vamos a obtener un score agregado de cada uno de los prototipos. Para ello, vamos a sumar los valores de cada uno de los usuarios y dividirlo entre el número de usuarios. En el caso del A, el usuario 1 ha obtenido una puntuación del 57,5, mientras que el usuario B ha obtenido una puntuación de 60. Por tanto, el score agregado del prototipo A es:
+
+## 58,75 
+
+Esta puntuación puede parecer baja, pero es importante tener en cuenta que el cuestionario SUS es un cuestionario subjetivo y que, por tanto, puede variar en función de la persona que lo realice. En este caso, las personas que evaluaban el prototipo A tenian el rasgo "Asco" y "Enfadado" en la tabla de evaluación de usuarios, lo que muestra que aún a persar de tener las emociones más negativas a la hora de evaluar el prototipo, la puntuación obtenida es bastante buena. 
 
 Esto indica que los usuarios que peor puedan evaluar la aplicación no van a ser detractores, sino que van a ser pasivos. Por tanto, aquellos usuarios que tomen la aplicación con un estádo de ánimo más positivo, van a tener una puntuación mucho más alta y van a ser promotores de la aplicación.
 
