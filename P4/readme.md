@@ -61,13 +61,6 @@ Esta puntuación puede parecer baja, pero es importante tener en cuenta que el c
 Esto indica que los usuarios que peor puedan evaluar la aplicación no van a ser detractores, sino que van a ser pasivos. Por tanto, aquellos usuarios que tomen la aplicación con un estádo de ánimo más positivo, van a tener una puntuación mucho más alta y van a ser promotores de la aplicación.
 
 #### Cuestionario SUS B
-* Usuario 3:
-
-![SUS3](https://github.com/FranRIvas-UGR/DIU/blob/master/P4/SUS-3.png)
-
-* Usuario 4:
-
-![SUS4](https://github.com/FranRIvas-UGR/DIU/blob/master/P4/SUS-4.png)
 
 ## 63,75
 
