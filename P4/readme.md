@@ -93,6 +93,8 @@ Se han realizado distintas tareas:
     <img src="https://github.com/FranRIvas-UGR/DIU/blob/master/P4/capturas/MapaCalorA4.png" alt="MapaCalorA4" width="200"/>
 </div>
 
+Vemos que las imágenes son lo qué más llama la atención al usuario, y es capaz de asociar la imagen al texto que se muestra debajo, por lo que mira discretamente o directamente no mira.
+
   * Mapa de calor del prototipo B:
     
     Objetivo: Identifica como reservar una actividad.
