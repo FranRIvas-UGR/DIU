@@ -74,25 +74,19 @@ Análisis de seguimiento ocular (eyetracking).
 
 
 ##### Resultado de SUS
-El puntaje promedio del SUS fue de 63.75, lo que indica una usabilidad marginal D, que significa que hay mucho margen de mejora.
+El puntaje promedio del SUS fue de 63.75, lo que indica una usabilidad marginal D, que significa que hay margen de mejora.
+#### Resultado de Eyetracking
 
+Objetivo: Identifica como reservar una actividad.
+    ![MapaCalor1](https://github.com/FranRIvas-UGR/DIU/blob/master/P4/capturas/MapaCalorB1.png)
+Objetivo: Identifica las fechas importantes.
+    ![MapaCalor2](https://github.com/FranRIvas-UGR/DIU/blob/master/P4/capturas/MapaCalorB2.png)
 
-
-(resultado de eyetracking)
-
-
-
-
-
-
-
-
+El heat map del usuario experto es similar al del usuario objetivo porque la app "EGO" tiene un diseño intuitivo que guía a todos los usuarios, independientemente de su experiencia, hacia las mismas áreas clave. Esta consistencia en la atención visual sugiere que la interfaz está bien diseñada y facilita la navegación, mostrando que tanto expertos como novatos comparten objetivos similares al usar la aplicación.
 
 ## 4 CONCLUSIONES 
 
-
-
-(qué podemos extraer de conclusion con las pruebas de usabilidad efectuadas)
+Aunque en general el diseño está bien hecho, las pruebas de usabilidad realizadas permitieron identificar varios problemas de navegación y funcionalidad. La app "EGO" tiene un diseño visualmente atractivo, pero necesita mejoras en la claridad de las instrucciones y la optimización de la navegación para una mejor experiencia de usuario.
 
 
 
@@ -103,17 +97,16 @@ El eyetracking ha sido lo único con incidencias. Complicaciones con obtener un 
 
 
 #### Valoración 
-
-* (Puntos Positivos a destacar)
+La disposición de los elementos en la interfaz es coherente y atractiva.
+La navegación principal es intuitiva, con un menú bien estructurado.
+Los botones y enlaces son fácilmente identificables y accesibles.
 
 
 
 #### Recomendaciones y propuesta de mejoras: 
 
-* (Puntos de mejora)
-
-
-
+Aclarar y destacar mejor las instrucciones para realizar acciones clave, como reservar actividades.
+Revisar la consistencia de los elementos interactivos para asegurar que todos los botones y enlaces funcionen de manera uniforme.
 
 
 
