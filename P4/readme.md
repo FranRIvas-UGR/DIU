@@ -101,6 +101,7 @@ Se han realizado distintas tareas:
 </div>
 
   * Mapa de calor del prototipo B:
+    
     Objetivo: Identifica como reservar una actividad.
     ![MapaCalor1](https://github.com/FranRIvas-UGR/DIU/blob/master/P4/capturas/MapaCalorB1.png)
 
