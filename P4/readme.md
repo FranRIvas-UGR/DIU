@@ -16,14 +16,16 @@ Lista de grupos
 
 ![Tabla_ID2](https://github.com/FranRIvas-UGR/DIU/blob/master/P4/Tabla_ID2.png)
 
+* Usuario 3:
+
+![SUS3](https://github.com/FranRIvas-UGR/DIU/blob/master/P4/SUS-3.png)
+
+* Usuario 4:
+
+![SUS4](https://github.com/FranRIvas-UGR/DIU/blob/master/P4/SUS-4.png)
+
 #### Cuestionario SUS A
-* Usuario 1:
 
-![SUS1](https://github.com/FranRIvas-UGR/DIU/blob/master/P4/SUS1.png)
-
-* Usuario 2:
-
-![SUS2](https://github.com/FranRIvas-UGR/DIU/blob/master/P4/SUS2.png)
 
 #### Cuestionario SUS B
 * Usuario 3:
