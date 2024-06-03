@@ -74,7 +74,7 @@ Se han realizado distintas tareas:
     * Mapa de calor del prototipo A:
     Algunas capturas de pantalla de los mapas de calor del prototipo A:
         ![MapaCalorA1](https://github.com/FranRIvas-UGR/DIU/blob/master/P4/capturas/MapaCalorA1.png)
-        ![MapaCalorA2](hhttps://github.com/FranRIvas-UGR/DIU/blob/master/P4/capturas/MapaCalorA2.png)
+        ![MapaCalorA2](https://github.com/FranRIvas-UGR/DIU/blob/master/P4/capturas/MapaCalorA2.png)
         ![MapaCalorA3](https://github.com/FranRIvas-UGR/DIU/blob/master/P4/capturas/MapaCalorA3.png)
         ![MapaCalorA4](https://github.com/FranRIvas-UGR/DIU/blob/master/P4/capturas/MapaCalorA4.png)
 
