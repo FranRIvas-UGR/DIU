@@ -42,9 +42,13 @@ Como vemos en esta tabla, este usuario tiene un rasgo de "Asco" a la hora de eva
 
 ![SUS3](https://github.com/FranRIvas-UGR/DIU/blob/master/P4/SUS-3.png)
 
+Como vemos en esta tabla, este usuario tiene un rasgo de "Miedo" a la hora de evaluar la aplicación. Por tanto, es un usuario que va a tener una percepción ansiosa y cautelosa de la aplicación. Esto hace que, a la hora de evaluar la aplicación, sea un usuario que va a tener una tendencia a destacar posibles riesgos o problemas, por lo que la puntuación puede ser influenciada negativamente por sus inquietudes. Si, a pesar de esto, obtenemos una puntuación entre decente y buena, podemos decir que la aplicación es confiable y ofrece una sensación de seguridad adecuada.
+
   * Usuario 4:
 
 ![SUS4](https://github.com/FranRIvas-UGR/DIU/blob/master/P4/SUS-4.png)
+
+Como vemos en esta tabla, este usuario tiene un rasgo de "Tristeza" a la hora de evaluar la aplicación. Por tanto, es un usuario que va a tener una percepción pesimista y reservada de la aplicación. Esto hace que, a la hora de evaluar la aplicación, sea un usuario que tiende a enfocarse en aspectos negativos o deficiencias, lo que puede influir negativamente en su puntuación. Si, a pesar de esto, obtenemos una puntuación entre decente y buena, podemos decir que la aplicación tiene una capacidad notable para ofrecer una experiencia positiva y mejorar el ánimo del usuario.
 
 #### Cuestionario SUS A
 
@@ -64,6 +68,12 @@ Esto indica que los usuarios que peor puedan evaluar la aplicación no van a ser
 * Usuario 4:
 
 ![SUS4](https://github.com/FranRIvas-UGR/DIU/blob/master/P4/SUS-4.png)
+
+## 63,75
+
+El resultado de 63,75 en el SUS, con evaluadores que tenían rasgos de "Miedo" y "Tristeza", indica que, a pesar de sus percepciones pesimistas y cautelosas, la aplicación es vista de manera bastante positiva. Esto sugiere que usuarios con estados emocionales más positivos probablemente otorgarán puntuaciones mucho más altas, lo que destaca la capacidad de la aplicación para satisfacer y atraer a una audiencia más amplia.
+
+Comparado con el resultado de 58,75 del proyecto A, ambos resultados reflejan que incluso evaluaciones de usuarios con emociones negativas no son indicativas de una mala aplicación, sino que los usuarios con mejores estados de ánimo pueden ser promotores activos.
 
 
 Elección y características
@@ -89,6 +99,16 @@ Se han realizado distintas tareas:
     <img src="https://github.com/FranRIvas-UGR/DIU/blob/master/P4/capturas/MapaCalorA3.png" alt="MapaCalorA3" width="200"/>
     <img src="https://github.com/FranRIvas-UGR/DIU/blob/master/P4/capturas/MapaCalorA4.png" alt="MapaCalorA4" width="200"/>
 </div>
+
+  * Mapa de calor del prototipo B:
+    Objetivo: Identifica como reservar una actividad.
+    ![MapaCalor1](https://github.com/FranRIvas-UGR/DIU/blob/master/P4/capturas/MapaCalorB1.png)
+
+    Objetivo: Identifica las fechas importantes.
+    ![MapaCalor2](https://github.com/FranRIvas-UGR/DIU/blob/master/P4/capturas/MapaCalorB2.png)
+
+El heat map del usuario experto es similar al del usuario objetivo porque la app "EGO" tiene un diseño intuitivo que guía a todos los usuarios, independientemente de su experiencia, hacia las mismas áreas clave. Esta consistencia en la atención visual sugiere que la interfaz está bien diseñada y facilita la navegación, mostrando que tanto expertos como novatos comparten objetivos similares al usar la aplicación.
+    
 
 #### Usability Report de Caso B
 [UsabilityReport](P4_UsabReport_EGO_doneby_DIU2_Real_Betis.md)
