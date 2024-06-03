@@ -212,33 +212,40 @@ https://www.figma.com/proto/nKXz7pISrwOZilxfarpmls/Material-3-Design-Kit?node-id
 
 ## Paso 5. Exportación & evaluación con Eye Tracking 
 
-Exportación a HTML/Flutter
------
-
 ![Método UX](img/eye-tracking.png))  5.b Eye Tracking method 
 
->>> Indica cómo diseñas experimento y reclutas usuarios (uso de gazerecorder.com)  
+Tareas realizadas 
 
-Diseño del experimento 
-----
+Se han realizado distintas tareas:
+   * Tarea 1: Registrarse en la plataforma.
+   * Tarea 2: Reservar una sesión
+   * Tarea 3: Reservar una plaza para un evento
+   * Tarea 4: Apuntarse a un concurso
 
->> Uso de imágenes (preferentemente) -> hay que esablecer una duración de visualización y  
->> fijar las áreas de interes (AoI) antes del diseño. Planificar qué tarea debe hacer el usuario (buscar, comprar...) 
+* Mapas de calor
+    * Mapa de calor del prototipo A:
+    Algunas capturas de pantalla de los mapas de calor del prototipo A:
+<br>
+<div>
+    <img src="https://github.com/FranRIvas-UGR/DIU/blob/master/P4/capturas/MapaCalorA1.png" alt="MapaCalorA1" width="200"/>
+    <img src="https://github.com/FranRIvas-UGR/DIU/blob/master/P4/capturas/MapaCalorA2.png" alt="MapaCalorA2" width="200"/>
+    <img src="https://github.com/FranRIvas-UGR/DIU/blob/master/P4/capturas/MapaCalorA3.png" alt="MapaCalorA3" width="200"/>
+    <img src="https://github.com/FranRIvas-UGR/DIU/blob/master/P4/capturas/MapaCalorA4.png" alt="MapaCalorA4" width="200"/>
+</div>
 
+Vemos que las imágenes son lo qué más llama la atención al usuario, y es capaz de asociar la imagen al texto que se muestra debajo, por lo que mira discretamente o directamente no mira.
 
-![experimento](img/experimentoET.png)  
->> cambiar img por tu diseño de experimento  
+  * Mapa de calor del prototipo B:
+    
+    Objetivo: Identifica como reservar una actividad.
+    ![MapaCalor1](https://github.com/FranRIvas-UGR/DIU/blob/master/P4/capturas/MapaCalorB1.png)
 
->> Recordar que gazerecorder es una versión de pruebas: usar sólo con 3 usuarios para generar mapa de calor (recordar que crédito > 0 para que funcione) 
+    Objetivo: Identifica las fechas importantes.
+    ![MapaCalor2](https://github.com/FranRIvas-UGR/DIU/blob/master/P4/capturas/MapaCalorB2.png)
 
-Resultados y valoración 
------
+Resultados y valoración
 
-
-
->> Cambiar por tus resultados
-![Resultado](img/resultadoET.png)  
-
+El heat map del usuario experto es similar al del usuario objetivo porque la app "EGO" tiene un diseño intuitivo que guía a todos los usuarios, independientemente de su experiencia, hacia las mismas áreas clave. Esta consistencia en la atención visual sugiere que la interfaz está bien diseñada y facilita la navegación, mostrando que tanto expertos como novatos comparten objetivos similares al usar la aplicación.
 
 
 ## Paso 4. Evaluación 
@@ -246,43 +253,69 @@ Resultados y valoración
 
 ![Método UX](img/ABtesting.png) 4.a Caso asignado
 ----
-
-
->>> Breve descripción del caso asignado con enlace a  su repositorio Github
+[UsabilityReport](P4/P4_UsabReport_EGO_doneby_DIU2_Real_Betis.md)
+La app "EGO" es una aplicación de gastronomía japonesa diseñada para ofrecer a los usuarios una experiencia culinaria completa. La aplicación permite a los usuarios explorar recetas tradicionales y modernas, y ofrece cursos, talleres y actividades únicas para todos los niveles de conocimiento
 
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
 
->>> Seleccione 4 personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Asigne dos a Caso A y 2 al caso B
- 
+Estos usuarios se han elegido tirando los dados y eligiendo el tipo de persona, la actividad y la emoción que tendría al usar la aplicación. Los usuarios son los siguientes:
+  * Usuario 1:
 
-| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
-| ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+![Tabla_ID1](https://github.com/FranRIvas-UGR/DIU/blob/master/P4/Tabla_ID1.png)
+
+Como vemos en esta tabla, este usuario tiene un rasgo de "Enfadado" a la hora de evaluar la aplicación. Por tanto, es un usuario que va a tener una percepción negativa de la aplicación.
+Esto hace que a la hora de evaluar la aplicación, sea un usuario que va a tener una percepción negativa de la aplicación, por lo que la puntuación normalmente va a ser baja. Si tenemos una puntuación entre decente y buena, podemos decir que la aplicación es bastante buena.
+
+  * Usuario 2:
+
+![Tabla_ID2](https://github.com/FranRIvas-UGR/DIU/blob/master/P4/Tabla_ID2.png)
+
+Como vemos en esta tabla, este usuario tiene un rasgo de "Asco" a la hora de evaluar la aplicación. Por tanto, es un usuario que va a tener una percepción negativa de la aplicación. Esto hace que a la hora de evaluar la aplicación, sea un usuario que va a tener una percepción negativa de la aplicación, por lo que la puntuación normalmente va a ser baja. Si tenemos una puntuación entre decente y buena, podemos decir que la aplicación es bastante buena.
+
+  * Usuario 3:
+
+![SUS3](https://github.com/FranRIvas-UGR/DIU/blob/master/P4/SUS-3.png)
+
+Como vemos en esta tabla, este usuario tiene un rasgo de "Miedo" a la hora de evaluar la aplicación. Por tanto, es un usuario que va a tener una percepción ansiosa y cautelosa de la aplicación. Esto hace que, a la hora de evaluar la aplicación, sea un usuario que va a tener una tendencia a destacar posibles riesgos o problemas, por lo que la puntuación puede ser influenciada negativamente por sus inquietudes. Si, a pesar de esto, obtenemos una puntuación entre decente y buena, podemos decir que la aplicación es confiable y ofrece una sensación de seguridad adecuada.
+
+  * Usuario 4:
+
+![SUS4](https://github.com/FranRIvas-UGR/DIU/blob/master/P4/SUS-4.png)
+
+Como vemos en esta tabla, este usuario tiene un rasgo de "Tristeza" a la hora de evaluar la aplicación. Por tanto, es un usuario que va a tener una percepción pesimista y reservada de la aplicación. Esto hace que, a la hora de evaluar la aplicación, sea un usuario que tiende a enfocarse en aspectos negativos o deficiencias, lo que puede influir negativamente en su puntuación. Si, a pesar de esto, obtenemos una puntuación entre decente y buena, podemos decir que la aplicación tiene una capacidad notable para ofrecer una experiencia positiva y mejorar el ánimo del usuario.
 
 
 ![Método UX](img/Survey.png) 4.c Cuestionario SUS
 ----
 
->>> Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. Para ello usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx) para calcular resultados sigiendo las pautas para usar la escala SUS e interpretar los resultados
-http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
-Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
+## Cuestionario SUS A
 
->>> Adjuntar captura de imagen con los resultados + Valoración personal 
+Atendiendo a los scores obtenidos en el cuestionario SUS, vamos a obtener un score agregado de cada uno de los prototipos. Para ello, vamos a sumar los valores de cada uno de los usuarios y dividirlo entre el número de usuarios. En el caso del A, el usuario 1 ha obtenido una puntuación del 57,5, mientras que el usuario B ha obtenido una puntuación de 60. Por tanto, el score agregado del prototipo A es:
+
+### 58,75 
+
+Esta puntuación puede parecer baja, pero es importante tener en cuenta que el cuestionario SUS es un cuestionario subjetivo y que, por tanto, puede variar en función de la persona que lo realice. En este caso, las personas que evaluaban el prototipo A tenian el rasgo "Asco" y "Enfadado" en la tabla de evaluación de usuarios, lo que muestra que aún a persar de tener las emociones más negativas a la hora de evaluar el prototipo, la puntuación obtenida es bastante buena. 
+
+Esto indica que los usuarios que peor puedan evaluar la aplicación no van a ser detractores, sino que van a ser pasivos. Por tanto, aquellos usuarios que tomen la aplicación con un estádo de ánimo más positivo, van a tener una puntuación mucho más alta y van a ser promotores de la aplicación.
+
+## Cuestionario SUS B
+
+### 63,75
+
+El resultado de 63,75 en el SUS, con evaluadores que tenían rasgos de "Miedo" y "Tristeza", indica que, a pesar de sus percepciones pesimistas y cautelosas, la aplicación es vista de manera bastante positiva. Esto sugiere que usuarios con estados emocionales más positivos probablemente otorgarán puntuaciones mucho más altas, lo que destaca la capacidad de la aplicación para satisfacer y atraer a una audiencia más amplia.
+
+Comparado con el resultado de 58,75 del proyecto A, ambos resultados reflejan que incluso evaluaciones de usuarios con emociones negativas no son indicativas de una mala aplicación, sino que los usuarios con mejores estados de ánimo pueden ser promotores activos.
 
 
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
 
->> Añadir report de usabilidad para práctica B (la de los compañeros)
 
+[UsabilityReport](P4_UsabReport_EGO_doneby_DIU2_Real_Betis.md)
 
-
->>> Valoración personal 
+Las técnicas aplicadas fueron útiles para detectar varios errores de usabilidad que no eran evidentes inicialmente. La combinación de pruebas de usuarios y análisis de eyetracking proporcionó una visión completa de los problemas y áreas de mejora. En general, estas técnicas demostraron ser efectivas para identificar y abordar los fallos de usabilidad en la app "EGO".
 
 
 
@@ -292,7 +325,7 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 ----
 
 
->> recupera el usability report de tu práctica (que es el caso B de los asignados a otros grupos) 
+Usability Report de nuestra práctica: (https://github.com/jseg380/DIU/blob/master/P4/Usability-Report24.md) 
 >> con los resultados del A/B testing, de eye tracking y del usability report:
 >>  comentad en 2-3 parrafos cual es la conclusion acerca de la realización de la práctica y su evaluación con esas técnicas y que habéis aprendido
 
