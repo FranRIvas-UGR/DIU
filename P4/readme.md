@@ -71,13 +71,13 @@ Se han realizado distintas tareas:
    * Tarea 4: Apuntarse a un concurso
 
 * Mapas de calor
-    
-      * Mapa de calor del prototipo A:
-        Algunas capturas de pantalla de los mapas de calor del prototipo A:
+    * Mapa de calor del prototipo A:
+    Algunas capturas de pantalla de los mapas de calor del prototipo A:
         ![MapaCalorA1](https://github.com/FranRIvas-UGR/DIU/blob/master/P4/capturas/MapaCalorA1.png)
         ![MapaCalorA2](hhttps://github.com/FranRIvas-UGR/DIU/blob/master/P4/capturas/MapaCalorA2.png)
         ![MapaCalorA3](https://github.com/FranRIvas-UGR/DIU/blob/master/P4/capturas/MapaCalorA3.png)
         ![MapaCalorA4](https://github.com/FranRIvas-UGR/DIU/blob/master/P4/capturas/MapaCalorA4.png)
+
 
 #### Usability Report de Caso B
 [UsabilityReport](P4_UsabReport_EGO_doneby_DIU2_Real_Betis.md)
