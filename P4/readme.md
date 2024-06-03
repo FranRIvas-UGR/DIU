@@ -50,19 +50,19 @@ Como vemos en esta tabla, este usuario tiene un rasgo de "Miedo" a la hora de ev
 
 Como vemos en esta tabla, este usuario tiene un rasgo de "Tristeza" a la hora de evaluar la aplicación. Por tanto, es un usuario que va a tener una percepción pesimista y reservada de la aplicación. Esto hace que, a la hora de evaluar la aplicación, sea un usuario que tiende a enfocarse en aspectos negativos o deficiencias, lo que puede influir negativamente en su puntuación. Si, a pesar de esto, obtenemos una puntuación entre decente y buena, podemos decir que la aplicación tiene una capacidad notable para ofrecer una experiencia positiva y mejorar el ánimo del usuario.
 
-#### Cuestionario SUS A
+## Cuestionario SUS A
 
 Atendiendo a los scores obtenidos en el cuestionario SUS, vamos a obtener un score agregado de cada uno de los prototipos. Para ello, vamos a sumar los valores de cada uno de los usuarios y dividirlo entre el número de usuarios. En el caso del A, el usuario 1 ha obtenido una puntuación del 57,5, mientras que el usuario B ha obtenido una puntuación de 60. Por tanto, el score agregado del prototipo A es:
 
-## 58,75 
+### 58,75 
 
 Esta puntuación puede parecer baja, pero es importante tener en cuenta que el cuestionario SUS es un cuestionario subjetivo y que, por tanto, puede variar en función de la persona que lo realice. En este caso, las personas que evaluaban el prototipo A tenian el rasgo "Asco" y "Enfadado" en la tabla de evaluación de usuarios, lo que muestra que aún a persar de tener las emociones más negativas a la hora de evaluar el prototipo, la puntuación obtenida es bastante buena. 
 
 Esto indica que los usuarios que peor puedan evaluar la aplicación no van a ser detractores, sino que van a ser pasivos. Por tanto, aquellos usuarios que tomen la aplicación con un estádo de ánimo más positivo, van a tener una puntuación mucho más alta y van a ser promotores de la aplicación.
 
-#### Cuestionario SUS B
+## Cuestionario SUS B
 
-## 63,75
+### 63,75
 
 El resultado de 63,75 en el SUS, con evaluadores que tenían rasgos de "Miedo" y "Tristeza", indica que, a pesar de sus percepciones pesimistas y cautelosas, la aplicación es vista de manera bastante positiva. Esto sugiere que usuarios con estados emocionales más positivos probablemente otorgarán puntuaciones mucho más altas, lo que destaca la capacidad de la aplicación para satisfacer y atraer a una audiencia más amplia.
 
