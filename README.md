@@ -326,18 +326,15 @@ Las técnicas aplicadas fueron útiles para detectar varios errores de usabilida
 
 
 Usability Report de nuestra práctica: (https://github.com/jseg380/DIU/blob/master/P4/Usability-Report24.md) 
->> con los resultados del A/B testing, de eye tracking y del usability report:
->>  comentad en 2-3 parrafos cual es la conclusion acerca de la realización de la práctica y su evaluación con esas técnicas y que habéis aprendido
+La evaluación del proyecto mediante pruebas de usabilidad, pruebas A/B y seguimiento ocular ha sido integral para entender y mejorar la experiencia del usuario. El informe de usabilidad mostró cómo las pruebas iterativas ayudaron a identificar y solucionar problemas en el diseño, mejorando la claridad y la navegación del sitio web.
 
-
-
+Las pruebas A/B permitieron comparar diferentes versiones del diseño para seleccionar los elementos más efectivos, mientras que el seguimiento ocular proporcionó datos sobre cómo los usuarios interactúan visualmente con el contenido. Aprendimos la importancia de la retroalimentación continua y de la adaptación del diseño para satisfacer las necesidades de los usuarios​)​.
 
 
 
 ## Conclusión final / Valoración de las prácticas
 
-
->>> (90-150 palabras) Opinión FINAL del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos  
+El proceso de desarrollo de diseño siguiendo la metodología UX ha sido una experiencia enriquecedora y formativa. A través de la investigación, pruebas de usuario y análisis de datos, pudimos iterar y mejorar continuamente nuestro diseño, asegurando que satisface las necesidades y expectativas de los usuarios. La metodología UX nos permitió abordar el diseño de manera estructurada y centrada en el usuario, lo que resultó en una interfaz más intuitiva y eficiente. La valoración general de las prácticas ha sido positivo, ya que hemos aprendido maneras nuevas de crear proyectos y aplicaciones.
 
 
 
