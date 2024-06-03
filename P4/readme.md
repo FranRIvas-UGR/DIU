@@ -115,4 +115,4 @@ El heat map del usuario experto es similar al del usuario objetivo porque la app
 [UsabilityReport](P4_UsabReport_EGO_doneby_DIU2_Real_Betis.md)
 
 
-* Conclusiones
+La evaluación de usabilidad de la app "EGO" mostró que, aunque la interfaz es atractiva y bien organizada, existen problemas en la navegación y claridad de las instrucciones. Se recomienda simplificar la navegación y mejorar la consistencia de los elementos interactivos.
