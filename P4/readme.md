@@ -24,14 +24,19 @@ Una vez que se recopilan las respuestas de los usuarios, se realiza un análisis
 En resumen, el A/B testing es una técnica para comparar dos versiones de un elemento y determinar cuál es más efectiva, mientras que los cuestionarios SUS son herramientas para evaluar la usabilidad de un sistema o una interfaz a través de preguntas subjetivas. Ambos son métodos importantes en el campo del diseño y la investigación de usuarios para mejorar la experiencia del usuario y la eficacia de los sistemas.
 
 #### Usuarios
-  
+  Estos usuarios se han elegido tirando los dados y eligiendo el tipo de persona, la actividad y la emoción que tendría al usar la aplicación. Los usuarios son los siguientes:
   * Usuario 1:
 
 ![Tabla_ID1](https://github.com/FranRIvas-UGR/DIU/blob/master/P4/Tabla_ID1.png)
 
+Como vemos en esta tabla, este usuario tiene un rasgo de "Enfadado" a la hora de evaluar la aplicación. Por tanto, es un usuario que va a tener una percepción negativa de la aplicación.
+Esto hace que a la hora de evaluar la aplicación, sea un usuario que va a tener una percepción negativa de la aplicación, por lo que la puntuación normalmente va a ser baja. Si tenemos una puntuación entre decente y buena, podemos decir que la aplicación es bastante buena.
+
   * Usuario 2:
 
 ![Tabla_ID2](https://github.com/FranRIvas-UGR/DIU/blob/master/P4/Tabla_ID2.png)
+
+Como vemos en esta tabla, este usuario tiene un rasgo de "Asco" a la hora de evaluar la aplicación. Por tanto, es un usuario que va a tener una percepción negativa de la aplicación. Esto hace que a la hora de evaluar la aplicación, sea un usuario que va a tener una percepción negativa de la aplicación, por lo que la puntuación normalmente va a ser baja. Si tenemos una puntuación entre decente y buena, podemos decir que la aplicación es bastante buena.
 
   * Usuario 3:
 
